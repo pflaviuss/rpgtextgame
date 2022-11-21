@@ -1,0 +1,66 @@
+body {
+    background-color: #334155;
+    
+  }
+  
+  #text {
+    background-color: #475569;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-family:'Super Legend Boy', sans-serif;
+  }
+  
+  #game {
+    max-width: 60vw;
+    max-height: 30vh;
+    background-color: #cbd5e1;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius:10px;
+  }
+  
+  #controls {
+    border: 1px black solid;
+    padding: 8px;
+    justify-content:center;
+    align-items:center;
+    display:flex;
+    border-radius: 5px;
+  }
+  
+  #stats {
+    border: 1px black solid;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    height:40px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family:'Super Legend Boy', sans-serif;
+  }
+  
+  #monsterStats {
+    display: none;
+    border: 1px black solid;
+    color: white;
+    padding: 5px;
+    background-color: red;
+  }
+  
+  .stat {
+    padding-right: 10px;
+  }
+  button{
+    border-radius:10px;
+    height:5vh;
+    width:15vw;
+    margin-left:10px;
+    background-color:#cbd5e1;
+    font-family:'Super Legend Boy', sans-serif;
+  }
+  button:hover{
+    cursor:pointer;
+  }
