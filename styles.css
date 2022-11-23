@@ -47,7 +47,9 @@ body {
     border: 1px black solid;
     color: white;
     padding: 5px;
-    background-color: red;
+    border-radius:5px;
+    font-family:'Super Legend Boy', sans-serif;
+    background-color: #475569;
   }
   
   .stat {
