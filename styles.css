@@ -66,3 +66,7 @@ body {
   button:hover{
     cursor:pointer;
   }
+
+  .emoji{
+    font-size:20px;
+  }
